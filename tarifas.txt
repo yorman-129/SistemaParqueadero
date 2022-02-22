@@ -1,0 +1,4 @@
+moto     2000
+automovil     3000
+camioneta     4000
+camion     6000
