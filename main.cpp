@@ -3,7 +3,7 @@
 ->lista circular doblemente ligada
 ->Regex
 
-"Divide un problema grande, en pequeñas partes y venceras" Anonimo.
+" Divide un problema grande, en pequeñas partes y venceras " Anonimo.
 
 */
 #include <stdlib.h>
